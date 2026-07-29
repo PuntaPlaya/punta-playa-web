@@ -1,0 +1,20 @@
+{
+  "name": "punta-playa-web",
+  "version": "1.0.0",
+  "description": "Landing page de lujo para Punta Playa Condos en Playa del Carmen, inspirada en la arquitectura de diseño St. Regis Residences / Marriott Luxury Brands.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve . -p 8765",
+    "dev": "python3 -m http.server 8765",
+    "build": "echo 'Production build ready: static site assets in root directory'"
+  },
+  "keywords": [
+    "punta-playa-condos",
+    "playa-del-carmen",
+    "luxury-real-estate",
+    "st-regis-style",
+    "landing-page"
+  ],
+  "author": "Antigravity AI",
+  "license": "MIT"
+}
